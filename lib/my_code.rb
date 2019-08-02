@@ -60,6 +60,3 @@ def reduce_to_any_true(source_array)
   end
   return check
 end
-
-
-print(map_to_negativize([1, 2, 3, -9]))
